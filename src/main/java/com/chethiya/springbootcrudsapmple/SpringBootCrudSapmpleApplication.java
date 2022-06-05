@@ -9,6 +9,7 @@ public class SpringBootCrudSapmpleApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(SpringBootCrudSapmpleApplication.class, args);
 		System.out.println("my application was hosted with git");
+		System.out.println("done");
 
 	}
 
